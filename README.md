@@ -1,21 +1,6 @@
 # Password-generator
-apt-get update -y
-apt-get upgrade -y
-pkg install python -y
-pkg install python2 -y
-pkg install git -y
-pip install lolcat
-pip install requests
-pip install random
-git clone https://github.com/noob-hackers/p-gen
-cd $HOME
-ls
-cd p-gen
-ls
-python p-gen.py
-[+]--Enter the lenghth of password you want
+Password-generator tool is an python based script which create/generate randrom passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.
 
-[+]--You can select any option by clicking on your keyboard
 
 ## AVAILABLE ON :
 
